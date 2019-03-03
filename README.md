@@ -55,3 +55,5 @@ https://cyc2018.github.io/Text-Typesetting/
 ## License
 
 - [fontawesome](https://fontawesome.com/license)
+
+- [forked from CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
